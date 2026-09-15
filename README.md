@@ -37,10 +37,10 @@ Técnico en Sistemas Informáticos (UTN) enfocado en desarrollo full stack y en 
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **[red-social](https://github.com/FedeRamoss/red-social)** | Red social full stack: backend con autenticación y publicaciones, frontend en Angular. | NestJS · Angular · Supabase |
-| **[estilo-potrero](https://github.com/FedeRamoss/estilo-potrero)** | Tienda online de camisetas y shorts de fútbol, con catálogo, carrito y login. | HTML/CSS/JS · Node.js |
-| **[fm-similitud-web](https://github.com/FedeRamoss/fm-similitud-web)** | Herramienta de análisis de similitud entre jugadores de fútbol. | Angular · FastAPI |
-| **[control-diario-automation](https://github.com/FedeRamoss/control-diario-automation)** | Automatización de un control diario de validaciones y conciliación de datos (versión genérica). | Python · Playwright |
-| **AltaPinta** *(repo del equipo — completar link)* | App de gestión para restaurantes: pedidos, mesas y stock. Colaboré como contribuidor. | Flutter · Supabase |
+| **[estilo-potrero](https://github.com/FedeRamoss/estilo-potrero)** *(en progreso)* | Tienda online de camisetas y shorts de fútbol, con catálogo, carrito y login. | HTML/CSS/JS · Node.js |
+| **[FM Similitud](https://github.com/FedeRamoss/FmSimilitudBackRender)** | Análisis de similitud entre jugadores de fútbol (backend FastAPI; frontend en proceso de subir). | Python · FastAPI |
+| **[control-diario-automation](https://github.com/FedeRamoss/control-diario-automation)** *(en progreso)* | Automatización de un control diario de validaciones y conciliación de datos (versión genérica). | Python · Playwright |
+| **[AltaPinta](https://github.com/gv-martin/altapinta-2026)** | App de gestión para restaurantes: pedidos, mesas y stock. Colaboré como contribuidor. | Flutter · Supabase |
 
 > 📌 A medida que suba más repos los voy agregando acá.
 
